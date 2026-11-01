@@ -22,7 +22,7 @@
     }
  
     .linkit {
-        background-color: gray;
+        background-color: rgb(224, 224, 224);
         display: flex;
         justify-content: row;
     }

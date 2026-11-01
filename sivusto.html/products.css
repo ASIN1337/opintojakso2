@@ -6,7 +6,7 @@
         }
 
         .linkit {
-        background-color: gray;
+        background-color: rgb(224, 224,224);
         display: flex;
         justify-content: row;
         font-family: "lucida console", "courier new", monospace;
@@ -27,8 +27,16 @@
             flex-direction: row;
             justify-content: space-evenly;
             align-items: stretch;
-            gap: 0.5rem;
-            display: block;
+            display: flex;
     }
     
-  
+        .kuvateksti {
+            margin-top: 0;
+        }
+
+        article {
+            padding-left:10px;
+            padding-right:10px;
+            background-color:cadetblue;
+            max-width: 17.5rem;
+        }

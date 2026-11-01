@@ -28,6 +28,7 @@
             justify-content: space-evenly;
             align-items: stretch;
             display: flex;
+            font-family: "lucida console", "courier new", monospace;
     }
     
         .kuvateksti {

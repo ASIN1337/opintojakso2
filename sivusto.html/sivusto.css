@@ -1,0 +1,35 @@
+    .sisältö {
+        background-color:rgb(199, 189, 189);
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    h1 {
+        font-family: "lucida console", "courier new", monospace;
+    }
+
+    a {
+        font-family: "lucida console", "courier new", monospace;
+    }
+
+    h1 {
+        padding-top: 150px;
+        text-align: center;
+    }
+ 
+    .linkit {
+        background-color: gray;
+        display: flex;
+        justify-content: row;
+    }
+
+    body {
+        background-color:hsl(3, 19%, 45%);
+        padding:40px;
+        padding-left:50px;
+        padding-right:50px;
+        }

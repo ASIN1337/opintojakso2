@@ -1,0 +1,25 @@
+    .sisältö {
+        font-family: "lucida console", "courier new", monospace;
+        display: left;
+        justify-content: left;
+        padding: 20px;
+        background-color:rgb(199, 189, 189);
+    }
+
+    body {
+        background-color: hsl(3, 19%, 45%); 
+        padding-top: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .napit {
+        background-color: gray;
+        display: flex;
+        justify-content: row;
+        font-family: "lucida console", "courier new", monospace;        
+    }
+
+    .sisältö img {
+        flex-direction: row;
+    }

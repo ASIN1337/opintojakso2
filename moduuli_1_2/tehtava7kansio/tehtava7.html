@@ -1,5 +1,22 @@
+<!DOCTYPE html>
+<html>
 <body>
+    <p id="määrät"></p>
+    <p id="summat"></p>
 <script>
 
+
+    const määrä=prompt("anna noppien määrä");
+    const määränumero=parseInt(määrä);
+
+    const randomnumero = math.floor(math.random() * määränumero);
+    const randomnumeronumero=parseInt(randomnumero);
+
+console.log(randomnumero)
+
+    document.querySelector("#määrät").innerHTML = "noppien heittomäärä: " + määränumero;
+    document.querySelector("#summat").innerHTML = "noppien silmälukujen summa: " + randomnumeronumero
 </script>
+
 </body>
+</html>

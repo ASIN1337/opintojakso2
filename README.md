@@ -9,3 +9,5 @@ Tehdyt tehtävät:
 -tehtävä 3 : 3 p
 -tehtävä 4 : 3 p
 -tehtävä 6 : 3 p
+
+**yhteensä 12p**

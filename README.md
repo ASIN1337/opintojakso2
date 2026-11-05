@@ -2,6 +2,8 @@
 
 ### js-moduulit 1 ja 2
 
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli1ja2/)
+
 Tehdyt tehtävät:
 
 -tehtävä 1: 1 p 

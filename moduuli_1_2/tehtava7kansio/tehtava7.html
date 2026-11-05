@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>moduuli1_2teht7</title>
+</head>
 <body>
     <p id="määrät"></p>
     <p id="summat"></p>
 <script>
 
 
-    const määrä=prompt("anna noppien määrä");
-    const määränumero=parseInt(määrä);
+    let määrä=prompt("anna noppien määrä");
+    let määränumero=parseInt(määrä);
 
-    const randomnumero = math.floor(math.random() * määränumero);
-    const randomnumeronumero=parseInt(randomnumero);
+    let randomnumero = Math.floor(Math.random() * 7);
+    let randomnumeronumero=parseInt(randomnumero);
 
-console.log(randomnumero)
+    console.log(randomnumero)
 
     document.querySelector("#määrät").innerHTML = "noppien heittomäärä: " + määränumero;
     document.querySelector("#summat").innerHTML = "noppien silmälukujen summa: " + randomnumeronumero

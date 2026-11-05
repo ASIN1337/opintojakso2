@@ -7,4 +7,5 @@ Tehdyt tehtävät:
 -tehtävä 1: 1 p 
 -tehtävä 2 : 2 p
 -tehtävä 3 : 3 p
+-tehtävä 4 : 3 p
 -tehtävä 6 : 3 p

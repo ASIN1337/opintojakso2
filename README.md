@@ -2,7 +2,7 @@
 
 ### js-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli1ja2/)
+[Linkki JS-moduulin 1 ja 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli1ja2/)
 
 Tehdyt tehtävät:
 
@@ -13,3 +13,9 @@ Tehdyt tehtävät:
 -tehtävä 6 : 3 p
 
 **yhteensä 12p**
+
+-----------------
+
+### js-moduuli 3
+
+[Linkki JS-Moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli3/)

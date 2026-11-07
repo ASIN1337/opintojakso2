@@ -24,3 +24,4 @@ Tehdyt tehtävät:
 
 - tehtävä 2 : 2 p
 - tehtävä 3 : 2 p
+- tehtävä 4 : 2 p

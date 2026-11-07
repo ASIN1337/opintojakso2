@@ -1,12 +1,23 @@
 
-const lista = [];
 
-const luku1[lista] = prompt("anna luku");
-const luku2[lista] = prompt("anna luku");
-const luku3[lista] = prompt("anna luku");
-const luku4[lista] = prompt("anna luku");
-const luku5[lista] = prompt("anna luku");
+const numerot = [];
+const uudetnumerot = [];
 
 
+for (let i = 0; i < 5; i++) {
+    numerot.push(prompt("anna luku: "))
+}
 
-document.querySelector("#tehtava").innerHTML 
+function pvastainen () {
+var uudetnumerot = [];
+for (var i = numerot.length - 1; i >= 0; i--){
+    uudetnumerot.push(numerot[i]);
+}
+return uudetnumerot;
+}
+
+pvastainen(numerot)
+
+console.log(numerot);
+
+

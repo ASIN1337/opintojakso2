@@ -1,6 +1,5 @@
 const luvut = []
 
-const kysymys = prompt("anna luku ja kun olet valmis syötä luku nolla: ")
 
 while (true) {
     let a = prompt("anna numero ja kun olet valmis syötä numero nolla: ");
@@ -11,14 +10,16 @@ while (true) {
     luvut.push(a)
 }
 
-luvut.sort().reverse()
+luvut.sort((a, b) => a - b );
+luvut.reverse();
 
 var lista = " ";
 for (var i=0; i<luvut.length; i++) {
     lista += "<ul>" + luvut[i] + "</ul>";
 }
 
-luvut.sort().reverse()
+luvut.sort((a, b) => a - b);
+luvut.reverse();
 
 document.getElementById("lista").innerHTML = lista;
 

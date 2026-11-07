@@ -20,4 +20,4 @@ pvastainen(numerot)
 
 console.log(numerot);
 
-
+document.querySelector("#tehtava").innerHTML = numerot

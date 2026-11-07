@@ -6,7 +6,7 @@
 
 Tehdyt tehtävät:
 
--tehtävä 1: 1 p 
+-tehtävä 1 : 1 p 
 -tehtävä 2 : 2 p
 -tehtävä 3 : 3 p
 -tehtävä 4 : 3 p
@@ -19,3 +19,7 @@ Tehdyt tehtävät:
 ### js-moduuli 3
 
 [Linkki JS-Moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli3/)
+
+Tehdyt tehtävät:
+
+-tehtävä 2 : 2 p

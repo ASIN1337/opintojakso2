@@ -29,3 +29,7 @@ Tehdyt tehtävät:
 - tehtävä 5 : 2 p
 
 **yhteensä 10p**
+
+laitoin useampaan tehtävään sillain että tulos printtautuu myös html sivustolle vaikka olisi riittänyt pelkästään konsoliin. Joissakin tehtävissä tein erittäin paljon vaikeammalla tavalla joten pitää tutkia tapoja jotka olisivat helpompia.
+
+-----------------

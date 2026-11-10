@@ -40,5 +40,9 @@ laitoin useampaan tehtävään sillain että tulos printtautuu myös html sivust
 
 Tehdyt tehtävät:
 
+- tehtävä 1 : 2 p
+- tehtävä 2 : 2 p
+
+
 
 

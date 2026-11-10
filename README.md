@@ -33,3 +33,12 @@ Tehdyt tehtävät:
 laitoin useampaan tehtävään sillain että tulos printtautuu myös html sivustolle vaikka olisi riittänyt pelkästään konsoliin. Joissakin tehtävissä tein erittäin paljon vaikeammalla tavalla joten pitää tutkia tapoja jotka olisivat helpompia.
 
 -----------------
+
+### js-moduuli 4 
+
+[Linkki JS-Moduulin 4 kansiooni users.metropolia.fi-palvelussa]()
+
+Tehdyt tehtävät:
+
+
+

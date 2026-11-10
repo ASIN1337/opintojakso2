@@ -42,7 +42,7 @@ Tehdyt tehtävät:
 
 - tehtävä 1 : 2 p
 - tehtävä 2 : 2 p
-
+- tehtävä 3 : 2 p
 
 
 

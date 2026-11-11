@@ -36,7 +36,7 @@ laitoin useampaan tehtävään sillain että tulos printtautuu myös html sivust
 
 ### js-moduuli 4 
 
-[Linkki JS-Moduulin 4 kansiooni users.metropolia.fi-palvelussa]()
+[Linkki JS-Moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli4/)
 
 Tehdyt tehtävät:
 

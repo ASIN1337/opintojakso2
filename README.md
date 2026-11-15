@@ -43,6 +43,10 @@ Tehdyt tehtävät:
 - tehtävä 1 : 2 p
 - tehtävä 2 : 2 p
 - tehtävä 3 : 2 p
+- tehtävä 4 : 2 p
+- tehtävä 7 : 2 p
 
+**yhteensä 10p**
 
+Tehtävä 4 koitin pitkään laittaa for(var i = 0; i < students.length; i++) ja select elementissä ei näkynyt vaihtoehtoja ja katsoin consolen avulla mitä students[i] näyttää ja siinä oli vain undefined mutta sitten testasin for of ja arvot vihdoin ilmestyivät select elementtiin
 

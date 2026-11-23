@@ -50,3 +50,13 @@ Tehdyt tehtävät:
 
 Tehtävä 4 koitin pitkään laittaa for(var i = 0; i < students.length; i++) ja select elementissä ei näkynyt vaihtoehtoja ja katsoin consolen avulla mitä students[i] näyttää ja siinä oli vain undefined mutta sitten testasin for of ja arvot vihdoin ilmestyivät select elementtiin
 
+-----------------
+
+### python-flask palvelin
+
+[Linkki python-flask palvelin kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/pythonflask/)
+
+Tehdyt tehtävät:
+- tehtävä 2 : 10 p
+
+**yhteensä 10**

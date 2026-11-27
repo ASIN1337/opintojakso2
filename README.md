@@ -60,3 +60,9 @@ Tehdyt tehtävät:
 - tehtävä 2 : 10 p
 
 **yhteensä 10**
+
+-----------------
+
+### js-moduuli 5
+
+[Linkki JS-Moduulin 5 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~phirasip/moduuli5/)
